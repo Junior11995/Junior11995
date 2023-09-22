@@ -14,12 +14,12 @@ Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. M
 
 ## Experiencia Laboral
 ### Upwork - Remote
-#### Desarrollador web - Jan 2022 ....
-- [Descripción de las responsabilidades y logros]
+#### Web developer - Jan 2022 ....
+- I am in charge of creating websites and solving software program problems for various clients from individuals to companies.
 
 ### Workana - Remote
-#### Desarrollador web - Jan 2022 ....
-- [Descripción de las responsabilidades y logros]
+#### Desarrollador web - Enero, 2022 ....
+- Me encargo de Crear sitios webs y solucionar problemas de programas de software para varios clientes desde personas asta Empresas.
 
 ## Educación
 ### [Universidad Federico Henríquez y Carvajal, UFHEC] - Campus Metropolitano, Santo domingo.
