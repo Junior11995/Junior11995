@@ -56,7 +56,7 @@ Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. M
 - inteligencia artificial
 
 ## Contacto
-Si deseas ponerse en contacto conmigo, no dudes en enviarme un correo electrónico a ads.suscribirse@gmail.com o conectarte conmigo a través de mi [LinkedIn](https://www.linkedin.com/in/junior1995/) o [GitHub](https://github.com/Junior11995/).
+Si deseas ponerse en contacto conmigo, no dudes en enviarme un [correo electrónico](ads.suscribirse@gmail.com) o conectarte conmigo a través de mi [LinkedIn](https://www.linkedin.com/in/junior1995/) o [GitHub](https://github.com/Junior11995/).
 
 ¡Gracias por visitar mi perfil!
 
