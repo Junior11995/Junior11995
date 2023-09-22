@@ -1,6 +1,6 @@
 ### Bienvenidos a mi repositorio aqui veras mis proyectos👋
 
-# Curriculum Vitae
+# Hoja de vida ////
 
 ## Datos Personales
 - **Nombre:** [Junior Alexis Valera Rijo]
