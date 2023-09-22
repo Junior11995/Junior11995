@@ -1,10 +1,11 @@
 ### Bienvenidos a mi repositorio aqui veras mis proyectos👋
 
-# Hoja de vida ////
+# Hoja de vida /./././
 
 ## Datos Personales
-- **Nombre:** [Junior Alexis Valera Rijo]
+- **Nombre:** Junior Alexis Valera Rijo
 - **Correo Electrónico:** [Proximamente]
+- **Portafolio:** [Proximamente]
 - **LinkedIn:** (https://www.linkedin.com/in/junior1995/)
 - **GitHub:** (https://github.com/Junior11995)
 
