@@ -5,8 +5,8 @@
 ## Datos Personales
 - **Nombre:** [Junior Alexis Valera Rijo]
 - **Correo Electrónico:** [Proximamente]
-- **LinkedIn:** [(https://www.linkedin.com/in/junior1995/)]
-- **GitHub:** [https://github.com/Junior11995]
+- **LinkedIn:** (https://www.linkedin.com/in/junior1995/)
+- **GitHub:** (https://github.com/Junior11995)
 
 ## Perfil
 Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. Mi pasión por la ingenieria de software me ha llevado a desarrollar varios proyectos. Estoy comprometido con Mejorar mas cada dia y siempre busco aprender y crecer profesionalmente.
