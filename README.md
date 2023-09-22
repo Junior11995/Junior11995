@@ -26,7 +26,7 @@ Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. M
 #### Soy estudiante - ingenieria de software
 
 ### Prepara Regular - San pedro de Macoris
-#### [Diploma de Escuela Secundaria/Preparatoria]
+#### Finalizado - BACHILLER
 
 ## Habilidades Técnicas:
 - Desarrollador front end
