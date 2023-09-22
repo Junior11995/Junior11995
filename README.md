@@ -9,32 +9,32 @@
 - **GitHub:** [https://github.com/Junior11995]
 
 ## Perfil
-Soy un [Estudiante de Ingenieria de Software] con experiencia en [desarrollo web]. Mi pasión por [la ingenieria de software] me ha llevado a [logro o proyecto destacado]. Estoy comprometido/a con [tu enfoque o filosofía] y siempre busco aprender y crecer profesionalmente.
+Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. Mi pasión por la ingenieria de software me ha llevado a desarrollar varios proyectos. Estoy comprometido con Mejorar mas cada dia y siempre busco aprender y crecer profesionalmente.
 
 ## Experiencia Laboral
-### [Nombre de la Empresa] - [Ubicación]
-#### [Cargo] - [Fecha de Inicio] a [Fecha de Finalización]
+### Upwork - Remote
+#### Desarrollador web - Jan 2022 ....
 - [Descripción de las responsabilidades y logros]
 
-### [Nombre de la Empresa] - [Ubicación]
-#### [Cargo] - [Fecha de Inicio] a [Fecha de Finalización]
+### Workana - Remote
+#### Desarrollador web - Jan 2022 ....
 - [Descripción de las responsabilidades y logros]
 
 ## Educación
-### [Nombre de la Universidad] - [Ubicación]
-#### [Título Obtenido] - [Fecha de Graduación]
+### [Universidad Federico Henríquez y Carvajal, UFHEC] - Campus Metropolitano, Santo domingo.
+#### Soy estudiante - ingenieria de software
 
-### [Nombre de la Escuela Secundaria/Preparatoria] - [Ubicación]
-#### [Diploma de Escuela Secundaria/Preparatoria] - [Fecha de Graduación]
+### Prepara Regular - San pedro de Macoris
+#### [Diploma de Escuela Secundaria/Preparatoria]
 
-## Habilidades Técnicas
-- [Habilidad #1]
-- [Habilidad #2]
-- [Habilidad #3]
+## Habilidades Técnicas:
+- Desarrollador front end
+- Desarrollador back end
+- Desarrollador full stack
 
 ## Proyectos Destacados
 ### [Nombre del Proyecto]
-- [Descripción del proyecto]
+- [Proximamente]
 - [Tecnologías utilizadas]
 - [Enlace al proyecto en línea si es aplicable]
 
@@ -44,8 +44,8 @@ Soy un [Estudiante de Ingenieria de Software] con experiencia en [desarrollo web
 - [Enlace al proyecto en línea si es aplicable]
 
 ## Idiomas
-- [Idioma #1]: [Nivel de competencia]
-- [Idioma #2]: [Nivel de competencia]
+- Ingles: Nivel medio
+- Español: Nivel nativo
 
 ## Intereses
 - [Interés #1]
@@ -53,7 +53,7 @@ Soy un [Estudiante de Ingenieria de Software] con experiencia en [desarrollo web
 - [Interés #3]
 
 ## Contacto
-Si deseas ponerse en contacto conmigo, no dudes en enviarme un correo electrónico a [tu correo electrónico] o conectarte conmigo a través de mi [LinkedIn](enlace a LinkedIn) o [GitHub](enlace a GitHub).
+Si deseas ponerse en contacto conmigo, no dudes en enviarme un correo electrónico a ads.suscribirse@gmail.com o conectarte conmigo a través de mi [LinkedIn](https://www.linkedin.com/in/junior1995/) o [GitHub]((https://github.com/Junior11995/)).
 
 ¡Gracias por visitar mi perfil!
 
