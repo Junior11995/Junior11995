@@ -2,7 +2,7 @@
 
 ## Hoja de vida🧐
 
-[![Blue-Gaming-Facebook-Cover.png](https://i.postimg.cc/1tvmsTvm/Blue-Gaming-Facebook-Cover.png)](https://postimg.cc/phnbB0N4)
+[![Blue-Gaming-Facebook-Cover.jpg](https://i.postimg.cc/FK3tT6MW/Blue-Gaming-Facebook-Cover.jpg)](https://postimg.cc/FfrnRTs3)
 
 ## Datos Personales
 - **Nombre:** Junior Alexis Valera Rijo
