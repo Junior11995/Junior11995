@@ -1,7 +1,7 @@
 ### Bienvenidos a mi repositorio aqui veras mis proyectos👋
-[![Blue-Gaming-Facebook-Cover.png](https://i.postimg.cc/1tvmsTvm/Blue-Gaming-Facebook-Cover.png)](https://postimg.cc/phnbB0N4)
-# Hoja de vida🧐
 
+# Hoja de vida🧐
+[![Blue-Gaming-Facebook-Cover.png](https://i.postimg.cc/1tvmsTvm/Blue-Gaming-Facebook-Cover.png)](https://postimg.cc/phnbB0N4)
 ## Datos Personales
 - **Nombre:** Junior Alexis Valera Rijo
 - **Correo Electrónico:** [Proximamente]
