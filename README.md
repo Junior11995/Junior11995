@@ -1,5 +1,5 @@
 ### Bienvenidos a mi repositorio aqui veras mis proyectos👋
-
+[![Blue-Gaming-Facebook-Cover.png](https://i.postimg.cc/1tvmsTvm/Blue-Gaming-Facebook-Cover.png)](https://postimg.cc/phnbB0N4)
 # Hoja de vida🧐
 
 ## Datos Personales
