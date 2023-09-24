@@ -25,10 +25,10 @@ Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. M
 
 ## Educación
 ### [Universidad Federico Henríquez y Carvajal, UFHEC] - Campus Metropolitano, Santo domingo.
-#### Soy estudiante - ingenieria de software
+-- Soy estudiante - ingenieria de software
 
 ### Prepara Regular - San pedro de Macoris
-#### Finalizado - BACHILLER
+- Finalizado - BACHILLER
 
 ## Habilidades Técnicas:
 - Desarrollador front end
