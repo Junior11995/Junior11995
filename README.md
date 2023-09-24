@@ -2,7 +2,7 @@
 
 [![Junior-valera.png](https://i.postimg.cc/1zb77gfc/Junior-valera.png)](https://postimg.cc/d7m9LVRL)
 
-## Hoja de vida🧐
+# Hoja de vida🧐
 
 ## Datos Personales
 - **Nombre:** Junior Alexis Valera Rijo
