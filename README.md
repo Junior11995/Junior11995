@@ -1,6 +1,6 @@
 ### Bienvenidos a mi repositorio aqui veras mis proyectos👋
 
-<a href='https://postimg.cc/d7m9LVRL' target='_blank'><img src='https://i.postimg.cc/d7m9LVRL/Junior-valera.png' border='0' alt='Junior-valera'/></a>
+<img src='https://drive.google.com/file/d/1nh5f1iYgE7nBFmwLwWkBugZo04kOCjBs/view?usp=sharing' alt='Junior-valera'/>
 
 # Hoja de vida🧐
 
