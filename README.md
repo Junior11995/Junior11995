@@ -1,8 +1,7 @@
+[![Junior-valera-1.jpg](https://i.postimg.cc/gJJNjSVc/Junior-valera-1.jpg)](https://postimg.cc/xkwKFPpB)
 ### Bienvenidos a mi repositorio aqui veras mis proyectos👋
 
 ## Hoja de vida🧐
-
-[![Junior-valera-1.jpg](https://i.postimg.cc/gJJNjSVc/Junior-valera-1.jpg)](https://postimg.cc/xkwKFPpB)
 
 ## Datos Personales
 - **Nombre:** Junior Alexis Valera Rijo
