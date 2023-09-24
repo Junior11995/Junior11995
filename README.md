@@ -1,6 +1,6 @@
 ### Bienvenidos a mi repositorio aqui veras mis proyectos👋
 
-[![Blue-Gaming-Facebook-Cover.jpg](https://i.postimg.cc/T2yhqVQK/Blue-Gaming-Facebook-Cover.jpg)](https://postimg.cc/mhsbTFv4)
+[![Junior-valera-1.jpg](https://i.postimg.cc/gJJNjSVc/Junior-valera-1.jpg)](https://postimg.cc/xkwKFPpB)
 
 ## Hoja de vida🧐
 
