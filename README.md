@@ -35,9 +35,14 @@ Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. M
 - Desarrollador back end
 - Desarrollador full stack
 
-## Proyectos Destacados
+## Proyectos Destacados:
 ### [Nombre del Proyecto]
 - [Proximamente]
+- [Tecnologías utilizadas]
+- [Enlace al proyecto en línea si es aplicable]
+
+### [Nombre del Proyecto]
+- [Descripción del proyecto]
 - [Tecnologías utilizadas]
 - [Enlace al proyecto en línea si es aplicable]
 
