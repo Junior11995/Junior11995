@@ -5,7 +5,8 @@ body {
     text-decoration: none;
 }
 
-h1, h2 {
+h1,
+h2 {
     text-align: center;
 }
 
@@ -19,7 +20,7 @@ a {
 }
 
 .menu {
-    text-decoration: none;
+    list-style-type: none;
     display: flex;
     margin-right: 25px;
 }
