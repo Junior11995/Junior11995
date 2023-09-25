@@ -1,11 +1,25 @@
 body {
     background-color: blanchedalmond;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
 }
 
-h1, h2{
+h1, h2 {
     text-align: center;
 }
 
 form {
     text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    text-decoration: none;
+    display: flex;
+    margin-right: 25px;
 }
