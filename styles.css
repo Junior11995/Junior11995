@@ -15,11 +15,21 @@ div {
     padding: 2%;
 }
 
-.contenedor {
+.menu {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
     margin: 10%;
     text-decoration: none;
     color: black;
+    font-size: large;
+    align-items: center;/* alinear texto verticalmente*/
+}
+
+a:hover {
+    color: white;
+}
+
+.contenedor-menu {
+    background-color: rgb(255, 0, 0);
 }
