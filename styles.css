@@ -1,26 +1,72 @@
+/* Reset de estilos para eliminar márgenes y rellenos predeterminados */
+body, h1, h2, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos generales */
 body {
-    background-color: blanchedalmond;
-    justify-content: space-between;
-    align-items: center;
-    text-decoration: none;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
 }
 
-h1,
-h2 {
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Encabezado */
+header {
+    background-color: #ff0000;
+    color: #fff;
     text-align: center;
+    padding: 20px 0;
 }
 
-form {
-    text-align: center;
+header h1 {
+    font-size: 36px;
 }
 
-a {
-    text-decoration: none;
-    color: white;
-}
-
-.menu {
+/* Navegación */
+nav ul.menu {
     list-style-type: none;
     display: flex;
-    margin-right: 25px;
+    justify-content: center;
+    background-color: #ff0000;
+    padding: 10px 0;
+}
+
+nav ul.menu li {
+    margin-right: 20px;
+}
+
+nav ul.menu a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Secciones */
+section {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 40px 0;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 24px;
+    }
+
+    nav ul.menu {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul.menu li {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
 }

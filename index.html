@@ -2,57 +2,77 @@
 <html lang="es">
 
 <head>
-  <title>Portafolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Portafolio</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
   <header>
-    <div>
-      <img src="/imagen/elefante.png" alt="elefante">
+    <div class="container">
+      <h1>Mi Portafolio</h1>
     </div>
-    <nav>
-      <ul class="menu">
-        <li>INICIO</li>
-        <li>SERVICIOS</li>
-        <li>PORTAFOLIO</li>
-        <li>CONTACTO</li>
-      </ul>
-    </nav>
   </header>
-  <hr>
-  <section>
-    <main>
-      <h2>Tecnologias:</h2>
-      <ul>
-        <li>PHP</li>
-        <li>C# y .NET</li>
-        <li>CSS y HTML:5</li>
-        <li>NodeJS</li>
-        <li>SQL,Oracle</li>
-        <li>Phyton</li>
+  <nav>
+    <div class="container">
+      <ul class="menu">
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#servicios">Servicios</a></li>
+        <li><a href="#portafolio">Portafolio</a></li>
+        <li><a href="#contacto">Contacto</a></li>
       </ul>
-    </main>
+    </div>
+  </nav>
+  <section id="inicio">
+    <div class="container">
+      <h2>Bienvenido a mi Portafolio</h2>
+      <p>¡Hola! Soy [Tu Nombre], un [tu profesión o especialidad] con experiencia en [áreas de experiencia]. En mi
+        portafolio encontrarás ejemplos de mi trabajo y proyectos anteriores.</p>
+    </div>
   </section>
-  <hr>
-  <section>
-    <h2>Certificaciones:</h2>
-    <ul>
-      <a href="https://www.udemy.com/certificate/UC-a4aaaef4-1c1e-4966-afb5-75f99aeaa284/" target="_blank"
-        rel="noopener noreferrer">
-        <li>Facebook ADS - Nivel Intermedio</li>
-      </a>
-      <a href="https://www.udemy.com/certificate/UC-d65bd735-1ace-43e1-99c9-fd61bbe8b18a/" target="_blank"
-        rel="noopener noreferrer">
-        <li>Dropshipping con Wordpress</li>
-      </a>
-    </ul>
+  <section id="servicios">
+    <div class="container">
+      <!-- Sección de Servicios -->
+      <h2>Servicios</h2>
+      <ul>
+        <li><strong>Diseño web:</strong> Creación de sitios web atractivos y funcionales.</li>
+        <li><strong>Desarrollo de aplicaciones:</strong> Desarrollo de aplicaciones web y móviles personalizadas.
+        </li>
+        <li><strong>Consultoría:</strong> Asesoramiento en estrategia digital y tecnológica.</li>
+      </ul>
+    </div>
   </section>
-  <hr>
-  <form action="">
-    <input type="text" placeholder="URL con la informacion" required>
-    <button type="submit">Enviar</button>
-  </form>
+  <section id="portafolio">
+    <div class="container">
+      <h2>Mi Portafolio</h2>
+      <div class="proyecto">
+        <h3>Proyecto 1</h3>
+        <p>Descripción breve del proyecto 1. Incluye detalles como tecnologías utilizadas y tu papel en el proyecto.</p>
+        <a href="#" target="_blank">Ver proyecto</a>
+      </div>
+      <div class="proyecto">
+        <h3>Proyecto 2</h3>
+        <p>Descripción breve del proyecto 2. Destaca los logros y resultados obtenidos.</p>
+        <a href="#" target="_blank">Ver proyecto</a>
+      </div>
+  </section>
+  <section id="contacto">
+    <div class="container">
+      <!-- Contenido de la sección Contacto -->
+      <h2>Contacto</h2>
+      <p>¡Estoy disponible para colaboraciones y proyectos emocionantes! Contáctame a través del siguiente formulario o
+        en mis redes sociales.</p>
+      <form action="#">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="mensaje">Mensaje:</label>
+        <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+        <button type="submit">Enviar</button>
+    </div>
+  </section>
 </body>
 
 </html>
