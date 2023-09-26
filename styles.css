@@ -11,6 +11,10 @@ body {
     font-size: large;
 }
 
+.borde-img {
+    border-radius: 50%;
+}
+
 div {
     padding: 2%;
 }
@@ -19,17 +23,32 @@ div {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    margin: 10%;
+    margin: 5%;
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: large;
     align-items: center;/* alinear texto verticalmente*/
 }
 
 a:hover {
-    color: white;
+    color: rgba(0, 0, 0, 0.438);
 }
 
 .contenedor-menu {
     background-color: rgb(255, 0, 0);
+    margin: 10px;
+    padding-right: 35px;
+    border-top-right-radius: 25px;
+}
+
+.contenedor {
+    background-color: rgba(0, 26, 255, 0.055);
+    padding: 75px;
+    margin: 35px;
+}
+/*Esta es la caja que contiene los servicios*/
+.caja {
+    border-style: groove;
+    margin: 10px;
+    background-color: rgba(144, 25, 255, 0.062);
 }
