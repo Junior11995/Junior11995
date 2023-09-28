@@ -24,7 +24,7 @@ Soy un Estudiante de Ingenieria de Software con experiencia en desarrollo web. M
 - Me encargo de Crear sitios webs y solucionar problemas de programas de software para varios clientes desde personas asta Empresas.
 
 ## Educación
-### [Universidad Federico Henríquez y Carvajal, UFHEC] - Campus Metropolitano, Santo domingo.
+### Universidad Federico Henríquez y Carvajal, UFHEC - Campus Metropolitano, Santo domingo.
 -- Soy estudiante - ingenieria de software
 
 ### Prepara Regular - San pedro de Macoris
