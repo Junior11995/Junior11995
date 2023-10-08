@@ -73,27 +73,41 @@
   <div class="contenedor" id="proyectos">
     <!-- Aqui va la informacion de Servicios -->
     <main>
-      <div class="proyecto-1"> 
+      <div class="proyecto-1">
         <h2>Tiemda de productos quimicos:</h2>
       </div>
     </main>
   </div>
 
   <div class="contenedor" id="contacto">
-<!-- Aqui va la informacion de Contacto -->
-    <fieldset>
-      <form action="" method="get">
-<input type="email" name="Nombre" id="Nombre"> Nombre
-<br>
-<input type="email" name="correo electronico" id="correo electronico"> correo electronico
-<br>
-<input type="checkbox" name="opcion 1" id="opcion 1"> opcion 1
-<input type="button" value="enviar">
-<input type="color" name="color" id="color">
-      </form>
-    </fieldset>
+    <!-- Aqui va la informacion de Contacto -->
+    <form action="none">
+      <h2 class="centro">formulario de contacto</h2>
+      <label for="nombre">Nombre</label>
+      <input type="text" id="nombre" placeholder="nombre" required>
+      <br>
+      <label for="apellido">Apellido</label>
+      <input type="text" id="Apellido" placeholder="Apellido" required>
+      <br>
+      <label for="correo">Correo</label>
+      <input type="email" placeholder="correo electronico" required>
+      <br>
+      <label for="edad">Edad</label>
+      <input type="date" required>
+      <br>
+      <label for="genero">Genero</label>
+      <input type="radio" name="genero"> Hombre
+      <input type="radio" name="genero"> Mujer
+      <br>
+      <label for="enviar"></label>
+      <input type="button" name="formulario" id="enviar" value="Enviar">
+
+    </form>
+
   </div>
-  <footer><p>Este sitio esta siendo creado:</p></footer>
+  <footer>
+    <p class="centro">Este sitio esta siendo creado:</p>
+  </footer>
 </body>
 
 </html>

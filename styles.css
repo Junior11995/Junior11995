@@ -1,6 +1,11 @@
 body {
-margin: 0;
+    margin: 0;
     font-family: monospace;
+}
+
+/*Aqui estaran todos los elementos centrados*/
+.centro {
+    text-align: center;
 }
 
 .titulo {
@@ -26,11 +31,12 @@ div {
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-size: large;
-    align-items: center;/* alinear texto verticalmente*/
+    align-items: center;
+    /* alinear texto verticalmente*/
 }
 
 a:hover {
-    color: rgb(9, 255, 0);
+    color: rgba(255, 0, 0, 0.473);
 }
 
 .contenedor-menu {
@@ -45,6 +51,7 @@ a:hover {
     padding: 75px;
     margin: 35px;
 }
+
 /*Esta es la caja que contiene los servicios*/
 .caja {
     border-style: groove;
