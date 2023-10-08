@@ -1,6 +1,5 @@
 body {
-    margin: 0;
-    padding: 0;
+margin: 0;
     font-family: monospace;
 }
 
@@ -31,7 +30,7 @@ div {
 }
 
 a:hover {
-    color: rgba(0, 0, 0, 0.438);
+    color: rgb(9, 255, 0);
 }
 
 .contenedor-menu {
