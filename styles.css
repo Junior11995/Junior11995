@@ -60,6 +60,27 @@ a:hover {
 }
 
 /* A partir de aqui empizan los proyectos */
-.proyecto-1 {
-    background-color: rgba(255, 0, 0, 0.075);
+.proyecto:hover {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
 }
+
+.uno {
+  color: #d17600;
+  font-style: oblique;
+}
+
+.dos {
+    color: rgba(3, 255, 125, 0.5);
+    background-color: black;
+    border-radius: 2vw;
+}
+
+.tres {
+    color: aqua;
+    font-style: unset;
+    background-color: blueviolet;
+    margin-left: 25px;
+    border-radius: 45vw;
+}
+
