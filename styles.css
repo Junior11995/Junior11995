@@ -11,7 +11,7 @@ body {
 /* Aqui estaran las configuraciones generales de los enlaces */
 .enlaces:hover {
     color: rgb(0, 0, 0);
-    background-color: blueviolet;
+    background-color: rgb(134, 0, 0);
 }
 
 .enlaces {
@@ -19,6 +19,18 @@ body {
     text-decoration: none;
     display: flex;
     margin: 5px;
+    color: bisque;
+    background-color: #d17600;
+}
+
+/* el tamano del div de enlaces */
+#tamano_1 {
+    margin: 0;
+    padding: 1px;
+}
+
+#h3_Redes_sociales {
+    color: black;
 }
 
 .titulo {
