@@ -8,6 +8,12 @@ body {
     text-align: center;
 }
 
+/* Aqui estaran las configuraciones generales de los enlaces */
+.enlaces {
+    text-decoration: none;
+    color: black;
+}
+
 .titulo {
     background-color: rgb(255, 0, 0);
     text-align: center;
@@ -66,8 +72,8 @@ a:hover {
 }
 
 .uno {
-  color: #d17600;
-  font-style: oblique;
+    color: #d17600;
+    font-style: oblique;
 }
 
 .dos {
@@ -83,4 +89,3 @@ a:hover {
     margin-left: 25px;
     border-radius: 45vw;
 }
-
