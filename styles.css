@@ -9,9 +9,16 @@ body {
 }
 
 /* Aqui estaran las configuraciones generales de los enlaces */
+.enlaces:hover {
+    color: rgb(0, 0, 0);
+    background-color: blueviolet;
+}
+
 .enlaces {
+    text-align: center;
     text-decoration: none;
-    color: black;
+    display: flex;
+    margin: 5px;
 }
 
 .titulo {
