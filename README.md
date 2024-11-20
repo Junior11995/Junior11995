@@ -6,7 +6,7 @@
 
 ## Datos Personales
 - **Nombre:** Junior Alexis Valera Rijo
-- **Correo Electrónico:** [Proximamente]
+- **Correo Electrónico:** contacto@juniorvalera.com
 - **Portafolio:** [Proximamente]
 - **[LinkedIn:](https://www.linkedin.com/in/junior1995/).** 
 - **[GitHub:](https://github.com/Junior11995).** 
